@@ -5,8 +5,8 @@
 - [Preprocessing](#preprocessing)
 - [Project Ideology](#project-ideology)
 - [Models and Results](#models-and-results)
-  - [Classifier](#classifier)
-  - [Detection Model](#detection-model)
+- [Classifier](#classifier)
+- [Detection Model](#detection-model)
 - [Deployment](#deployment)
 
 ## Introduction
@@ -69,3 +69,8 @@ The following preprocessing steps were applied to the dataset:
 ## Deployment
 
 The model was deployed using Streamlit, providing an interactive web interface for radiologists to upload and analyze X-ray images.
+
+
+
+https://github.com/user-attachments/assets/2cd84644-2f74-4f5f-be10-e97e2afdd53d
+
